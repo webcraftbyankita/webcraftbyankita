@@ -1,7 +1,8 @@
-# 👋 Hi there, I'm Ankita Waykos!
+#👋 Hi, I'm Ankita!
+I am a Web Developer who loves creating amazing websites. I work with many technologies like HTML, CSS, JavaScript, AngularJS, ReactJS, WordPress, and ASP.NET.
 
-## 🚀 About Me
-I'm Ankita, a passionate web developer with a strong background in HTML, CSS, JavaScript, AngularJS, ReactJS, WordPress, ASP.NET, and various other web development technologies. I enjoy crafting elegant and efficient solutions to complex problems, with a keen eye for user experience and performance optimization.
+##✨ What Inspires Me?
+I enjoy building websites that are beautiful, fast, and easy to use. My focus is always on creating a great user experience and making sure everything works smoothly.
 
 ## 💼 Skills
 ### Frontend Development
